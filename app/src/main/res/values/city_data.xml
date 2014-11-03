@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_labels">
+        <item>杭州</item>
+        <item>上海</item>
+        <item>双牌</item>
+    </string-array>
+    <string-array name="color_labels">
+        <item>红</item>
+        <item>黄</item>
+        <item>蓝</item>
+        </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme.
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+         Customize your theme here.
+    </style>
+    -->
+
+    <style name="mytext" parent="android:Theme.Holo.Light.DarkActionBar"><!--定义样式表得配置，其中“mystext” 为名称-->
+        <item name="android:textSize">45px</item><!--定义文本大小-->
+        <item name="android:textColor">#ff0</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>
